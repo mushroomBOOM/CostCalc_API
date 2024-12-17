@@ -1,0 +1,22 @@
+version: '3.4'
+
+services:
+  costcalcapi:
+    image: ${DOCKER_REGISTRY-}costcalcapi
+    build:
+      context: .
+      dockerfile: CostCalcAPI/Dockerfile
+    ports:
+      - "5000:5001"
+      - "5001:5001"
+  database:
+    image: postgres:latest
+    container_name: database
+    environment:
+        - POSTGRES_DB=CostCalcDB
+        - POSTGRES_USER=postgres
+        - POSTGRES_PASSWORD=20031983 
+    volumes:
+        - ./.containers/db:/var/lib/postgresql/data
+    ports:
+        - 5432:5432

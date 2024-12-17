@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|c:\\users\\karko\\desktop\\costcalcapi\\costcalcapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|solutionrelative:costcalcapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|c:\\users\\karko\\desktop\\costcalcapi\\costcalcapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|solutionrelative:costcalcapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3BB162-C9C4-4550-8C05-31A46327F15D}|docker-compose.dcproj|c:\\users\\karko\\desktop\\costcalcapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8B3BB162-C9C4-4550-8C05-31A46327F15D}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|c:\\users\\karko\\desktop\\costcalcapi\\costcalcapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|solutionrelative:costcalcapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|c:\\users\\karko\\desktop\\costcalcapi\\costcalcapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|solutionrelative:costcalcapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3BB162-C9C4-4550-8C05-31A46327F15D}|docker-compose.dcproj|c:\\users\\karko\\desktop\\costcalcapi\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8B3BB162-C9C4-4550-8C05-31A46327F15D}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3BB162-C9C4-4550-8C05-31A46327F15D}|docker-compose.dcproj|c:\\users\\karko\\desktop\\costcalcapi\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B3BB162-C9C4-4550-8C05-31A46327F15D}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|c:\\users\\karko\\desktop\\costcalcapi\\costcalcapi\\costcalcapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|solutionrelative:costcalcapi\\costcalcapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|c:\\users\\karko\\desktop\\costcalcapi\\costcalcapi\\models\\calculatedcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|solutionrelative:costcalcapi\\models\\calculatedcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|c:\\users\\karko\\desktop\\costcalcapi\\costcalcapi\\controllers\\stagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|solutionrelative:costcalcapi\\controllers\\stagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|c:\\users\\karko\\desktop\\costcalcapi\\costcalcapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|solutionrelative:costcalcapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|c:\\users\\karko\\desktop\\costcalcapi\\costcalcapi\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|solutionrelative:costcalcapi\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|c:\\users\\karko\\desktop\\costcalcapi\\costcalcapi\\controllers\\overheadcostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|solutionrelative:costcalcapi\\controllers\\overheadcostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|c:\\users\\karko\\desktop\\costcalcapi\\costcalcapi\\controllers\\costcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|solutionrelative:costcalcapi\\controllers\\costcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\IT\\C#\\CostCalcAPI\\CostCalcAPI\\Migrations\\20241202084212_\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435\u041C\u0438\u0433\u0440\u0430\u0446\u0438\u0438.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\IT\\C#\\CostCalcAPI\\CostCalcAPI\\Migrations\\20241202083353_\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435\u041C\u0438\u0433\u0440\u0430\u0446\u0438\u0438.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|c:\\users\\karko\\desktop\\costcalcapi\\costcalcapi\\models\\overheadcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|solutionrelative:costcalcapi\\models\\overheadcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|c:\\users\\karko\\desktop\\costcalcapi\\costcalcapi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|solutionrelative:costcalcapi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|c:\\users\\karko\\desktop\\costcalcapi\\costcalcapi\\models\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|solutionrelative:costcalcapi\\models\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|c:\\users\\karko\\desktop\\costcalcapi\\costcalcapi\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74510F3-E71E-4F32-AD15-9F7362D569FE}|CostCalcAPI\\CostCalcAPI.csproj|solutionrelative:costcalcapi\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CostCalcAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\appsettings.json",
+              "RelativeToolTip": "CostCalcAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T10:40:22.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-12-17T18:53:33.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CostCalcAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Program.cs",
+              "RelativeToolTip": "CostCalcAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:30:40.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-12-17T18:56:22.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CostCalcAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CostCalcAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:42:53.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-17T18:53:17.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CostController.cs",
+              "DocumentMoniker": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Controllers\\CostController.cs",
+              "RelativeDocumentMoniker": "CostCalcAPI\\Controllers\\CostController.cs",
+              "ToolTip": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Controllers\\CostController.cs",
+              "RelativeToolTip": "CostCalcAPI\\Controllers\\CostController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAA9wGEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:07:23.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "CostCalcAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Dockerfile",
+              "RelativeToolTip": "CostCalcAPI\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-17T18:53:47.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "CostCalcAPI\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "CostCalcAPI\\Controllers\\ProjectController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:08:24.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CostCalcAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\CostCalcAPI.csproj",
+              "RelativeDocumentMoniker": "CostCalcAPI\\CostCalcAPI.csproj",
+              "ToolTip": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\CostCalcAPI.csproj",
+              "RelativeToolTip": "CostCalcAPI\\CostCalcAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T10:23:13.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalculatedCost.cs",
+              "DocumentMoniker": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Models\\CalculatedCost.cs",
+              "RelativeDocumentMoniker": "CostCalcAPI\\Models\\CalculatedCost.cs",
+              "ToolTip": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Models\\CalculatedCost.cs",
+              "RelativeToolTip": "CostCalcAPI\\Models\\CalculatedCost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:25:31.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StageController.cs",
+              "DocumentMoniker": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Controllers\\StageController.cs",
+              "RelativeDocumentMoniker": "CostCalcAPI\\Controllers\\StageController.cs",
+              "ToolTip": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Controllers\\StageController.cs",
+              "RelativeToolTip": "CostCalcAPI\\Controllers\\StageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:10:11.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OverheadCostController.cs",
+              "DocumentMoniker": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Controllers\\OverheadCostController.cs",
+              "RelativeDocumentMoniker": "CostCalcAPI\\Controllers\\OverheadCostController.cs",
+              "ToolTip": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Controllers\\OverheadCostController.cs",
+              "RelativeToolTip": "CostCalcAPI\\Controllers\\OverheadCostController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwGQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:12:25.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "CostCalcAPI\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "CostCalcAPI\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:11:11.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241202083353_\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435\u041C\u0438\u0433\u0440\u0430\u0446\u0438\u0438.cs",
+              "DocumentMoniker": "D:\\Study\\IT\\C#\\CostCalcAPI\\CostCalcAPI\\Migrations\\20241202083353_\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435\u041C\u0438\u0433\u0440\u0430\u0446\u0438\u0438.cs",
+              "ToolTip": "D:\\Study\\IT\\C#\\CostCalcAPI\\CostCalcAPI\\Migrations\\20241202083353_\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435\u041C\u0438\u0433\u0440\u0430\u0446\u0438\u0438.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:33:53.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241202084212_\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435\u041C\u0438\u0433\u0440\u0430\u0446\u0438\u0438.cs",
+              "DocumentMoniker": "D:\\Study\\IT\\C#\\CostCalcAPI\\CostCalcAPI\\Migrations\\20241202084212_\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435\u041C\u0438\u0433\u0440\u0430\u0446\u0438\u0438.cs",
+              "ToolTip": "D:\\Study\\IT\\C#\\CostCalcAPI\\CostCalcAPI\\Migrations\\20241202084212_\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435\u041C\u0438\u0433\u0440\u0430\u0446\u0438\u0438.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:42:12.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OverheadCost.cs",
+              "DocumentMoniker": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Models\\OverheadCost.cs",
+              "RelativeDocumentMoniker": "CostCalcAPI\\Models\\OverheadCost.cs",
+              "ToolTip": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Models\\OverheadCost.cs",
+              "RelativeToolTip": "CostCalcAPI\\Models\\OverheadCost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:25:15.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "CostCalcAPI\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Models\\Role.cs",
+              "RelativeToolTip": "CostCalcAPI\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:24:43.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Stage.cs",
+              "DocumentMoniker": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Models\\Stage.cs",
+              "RelativeDocumentMoniker": "CostCalcAPI\\Models\\Stage.cs",
+              "ToolTip": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Models\\Stage.cs",
+              "RelativeToolTip": "CostCalcAPI\\Models\\Stage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:24:31.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "CostCalcAPI\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\karko\\Desktop\\CostCalcAPI\\CostCalcAPI\\Models\\Project.cs",
+              "RelativeToolTip": "CostCalcAPI\\Models\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:24:15.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

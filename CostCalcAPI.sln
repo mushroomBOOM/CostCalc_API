@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CostCalcAPI", "CostCalcAPI\CostCalcAPI.csproj", "{B74510F3-E71E-4F32-AD15-9F7362D569FE}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{8B3BB162-C9C4-4550-8C05-31A46327F15D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B74510F3-E71E-4F32-AD15-9F7362D569FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B74510F3-E71E-4F32-AD15-9F7362D569FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B74510F3-E71E-4F32-AD15-9F7362D569FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B74510F3-E71E-4F32-AD15-9F7362D569FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B3BB162-C9C4-4550-8C05-31A46327F15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3BB162-C9C4-4550-8C05-31A46327F15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3BB162-C9C4-4550-8C05-31A46327F15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3BB162-C9C4-4550-8C05-31A46327F15D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FD0F62D-B251-4849-A89E-8F47D1F51B5B}
+	EndGlobalSection
+EndGlobal
